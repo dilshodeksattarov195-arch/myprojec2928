@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsync",
+        "uuid": 21283632,
+        "checksum": "6k4gxd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
